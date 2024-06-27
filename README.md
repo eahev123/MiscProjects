@@ -1,2 +1,2 @@
 # Personal_Projects
-For Personal Projects only
+This branch contains private works, Coursera course works, etc.
