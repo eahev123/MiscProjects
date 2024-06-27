@@ -1,2 +1,2 @@
-# Personal_Projects
+# MiscProjects
 Contains private works, Coursera course works, etc.
